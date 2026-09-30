@@ -1,4 +1,4 @@
-# CroceRosssa_PDF_Encrypt
+# CroceRossa_PDF_Encrypt
 # PdfEncryptor
 
 Encrypts PDF files so that they **open only with a password** (AES-256 or AES-128), one file or a
